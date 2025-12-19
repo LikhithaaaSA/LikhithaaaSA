@@ -6,7 +6,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logo=v&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat&logo=kicad&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence-E31837?style=flat&logo=analogdevices&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=flat&logo=xilinx&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 ---
